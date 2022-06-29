@@ -1,7 +1,6 @@
 import re, typing as t
 
 
-
 def enter_1sentence() -> t.List:
     sentence=input("Enter the sentence №1 "+
         "(if you just press (Enter), ready-made sentence №1 will be used): ")
