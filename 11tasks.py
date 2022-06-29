@@ -1,6 +1,5 @@
 import re, typing as t
 
-from pyparsing import counted_array
 
 
 def enter_1sentence() -> t.List:
@@ -198,10 +197,10 @@ if __name__ == "__main__":
     while True:
         word = enter_word()
         count_words = sentence1.count(word)
-        if count == 0:
+        if count_words == 0:
             print(f"You entered the word ({word}) that is not in the sentence ===> TRY AGAIN!")
             continue
-        if count > 0:
+        if count_words > 0:
             print(f'COUNT of words "{word}" in the sentence: {count_words}')
             break
     print()
