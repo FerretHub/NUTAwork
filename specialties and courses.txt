@@ -1,0 +1,31 @@
+
+1 - Specialty
+    Software Engineering
+1 - Course
+    1-programming
+    2-maths
+    3-physical culture
+2 - Course
+    1-DISCO DISCO DISCO
+    2-sweet and confetti
+    3-remaining subjects 3 4 5 6...
+4 - Course
+    1-physics
+    2-flying
+
+3 - Specialty
+    Computer Science
+    and IT-cats :D
+5 - Course
+    1-physical culture
+    2-cpace flights
+    3-tartar sauce and guacamole
+    4-logic cheese
+    5-logic sugar
+    6-syntax salt ha-ha-ha-XD
+
+4 - Specialty
+    IT Pillows and Relax
+6 - Course
+    1-how to get to this paradise
+    2-here pay the scholarship whatever you do
